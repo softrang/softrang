@@ -19,7 +19,7 @@ I'm **Md Oasim Mia**, a passionate Web developer and tech enthusiast. I love to 
 
 ## 🔗 Find me on the web
 
-- [LinkedIn](https://www.facebook.com/oasim420)
+- [Facebook](https://www.facebook.com/oasim420)
 
 
 ## 📊 GitHub Stats
