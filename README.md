@@ -1,31 +1,42 @@
-# Md Oasim Mia
+👋 Hi, I'm Md Oasim Mia
+Welcome to my GitHub profile! I'm a passionate Web Developer and Tech Enthusiast from Bangladesh 🇧🇩. I enjoy building modern, fast, and user-friendly web applications, and I love contributing to open-source projects.
 
-Welcome to my GitHub profile! 👋
+🚀 About Me
+💻 Currently working on full-stack Web Development
 
-I'm **Md Oasim Mia**, a passionate Web developer and tech enthusiast. I love to explore new technologies and work on challenging projects.
+🌱 Learning React.js, PHP, and exploring Laravel
 
-## 🚀 About Me
+🤝 Open to collaboration on open-source and freelance projects
 
-- 💻 I'm currently working on **web development** .
-- 🌱 I'm learning **React.js** and **PHP**.
-- 🔭 I’m looking to collaborate on **open-source projects**.
-- 🌍 I'm based in **Bangladesh**.
+🔍 Always curious about new tech stacks and industry trends
 
-## 💼 Skills
+🛠️ Skills & Technologies
+💻 Languages
+JavaScript
 
-- **Languages**: JavaScript, PHP
-- **Frameworks**: React.js, 
-- **Tools & Technologies**: Git, MySQL
+PHP
 
-## 🔗 Find me on the web
+⚙️ Frameworks & Libraries
+React.js
 
-- [Facebook](https://www.facebook.com/oasim420)
+Bootstrap
 
+jQuery
 
-## 📊 GitHub Stats
+🧰 Tools & Platforms
+Git & GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=softrang&show_icons=true&count_private=true&hide=prs&hide_title=true&hide_rank=true)
+MySQL
 
----
+VS Code
 
-Feel free to reach out to me for collaboration, mentorship, or just a chat about tech! 😄
+Firebase
+
+Netlify / Vercel
+
+🌐 Connect With Me
+📘 Facebook coming soon...
+
+✉️ Email coming soon...
+
+🌍 Personal Portfolio (Coming soon!)
